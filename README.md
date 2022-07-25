@@ -1,5 +1,5 @@
 # Challenge Accenture
-Dojo ou Dojô é o local onde se treinam artes marciais japonesas. Muito mais do que uma simples área, o dojô deve ser respeitado como se fosse a casa dos praticantes. Por isso, é comum ver o praticante fazendo uma reverência antes de adentrar. Por isso o motivo desse repositorio é treinar com muita humildade, pois cada praticante tem muito a oferecer.
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
