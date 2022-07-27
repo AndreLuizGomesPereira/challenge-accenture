@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cypress open",
     "ci": "cypress run",
-    "spec": "cypress tags -e"
+    "spec": "cypress-tags run --env TAGS="
   },
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/support/steps"

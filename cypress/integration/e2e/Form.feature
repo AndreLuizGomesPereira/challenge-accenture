@@ -1,5 +1,5 @@
 Feature: Envio de Formulario
-
+    @login
     Scenario: Preencher formulario corretamente
         Given acesso o site Tricentis
         When preencher o formulario com os dados corretamente
