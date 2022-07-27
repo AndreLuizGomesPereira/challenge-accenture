@@ -12,5 +12,5 @@ When(/^preencher o formulario com os dados corretamente$/, () => {
 });
 
 Then(/^devo visualizar a mensagem "([^"]*)"$/, (args1) => {
-  formPage.visualizarBotaoRecuperarSenha();
+  formPage.visualizarMessagem();
 });

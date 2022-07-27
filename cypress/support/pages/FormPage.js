@@ -64,7 +64,7 @@ class FormPage {
     });
   }
 
-  visualizarBotaoRecuperarSenha() {
+  visualizarMessagem() {
     cy.get(formElements.modalMessage()).should(
       "have.text",
       "Sending e-mail success!"
