@@ -3,6 +3,7 @@ const cucumber = require("cypress-cucumber-preprocessor").default;
 
 module.exports = defineConfig({
   e2e: {
+    projectId: "hu2wfm",
     specPattern: "cypress/integration/e2e/*.feature",
     viewportHeight: 1080,
     viewportWidth: 1920,
